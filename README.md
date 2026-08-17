@@ -101,7 +101,8 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-<img width="1247" height="733" alt="636825983-fffc2e53-31ba-4d89-95ef-c492aed2809c" src="https://github.com/user-attachments/assets/d06b5a51-36f4-46ba-af4c-bfaba60e83c8" />
+
+<img width="1562" height="906" alt="636827209-b86af00e-c331-4a07-8de3-9a9db5aaf940" src="https://github.com/user-attachments/assets/700b4999-0e00-4a0c-9c56-9e202114cf64" />
 
 
 # SEQUENCE DIAGRAM
@@ -122,9 +123,9 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-<img width="1562" height="906" alt="636827209-b86af00e-c331-4a07-8de3-9a9db5aaf940" src="https://github.com/user-attachments/assets/700b4999-0e00-4a0c-9c56-9e202114cf64" />
 
 
+<img width="1247" height="733" alt="636825983-fffc2e53-31ba-4d89-95ef-c492aed2809c" src="https://github.com/user-attachments/assets/d06b5a51-36f4-46ba-af4c-bfaba60e83c8" />
 
 
 

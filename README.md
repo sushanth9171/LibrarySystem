@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230088
+# Name:G Sushanth
+# Date:27-7-2026
 
 
 # AIM:
@@ -39,7 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-<img width="1547" height="920" alt="636820301-f4568116-7083-4bc1-9b11-86f0894edc68" src="https://github.com/user-attachments/assets/6c92be96-5146-42b4-a478-b75946ee3872" />
+<img width="1590" height="910" alt="636819511-5c8292fa-8a27-4ba8-95d8-911b137b9f28" src="https://github.com/user-attachments/assets/5a96a080-f176-4929-851d-242a96f1dcb2" />
 
 # CLASS DIAGRAM
 
